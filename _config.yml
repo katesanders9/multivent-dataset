@@ -1,29 +1,29 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: MultiVENT
+url: "https://katesanders9.github.io/multivent-dataset/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /1f680.png
 description: Product marketing template for Jekyll.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: 
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: EST
 
 collections:
   staff_members:
@@ -86,14 +86,7 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
-    - Twitter
-    - YouTube
-    - RSS
+
 
 _comments:
   map: Update the map location and display settings.
