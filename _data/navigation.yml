@@ -1,24 +1,17 @@
-- name: Pricing
-  link: /pricing/
+
+- name: Research
+  link: /research/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Download
+  link: /download/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
+- name: ACL Workshop 2025
   link: /
   new_window: true
   highlight: true
+- name: Contact
+  link: /about/
+  new_window: false
+  highlight: false
